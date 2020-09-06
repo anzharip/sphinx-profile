@@ -10,12 +10,13 @@ Profile
    :maxdepth: 2
    :caption: Contents:
 
-Currently working as a Solution Development Manager at PT IP Network Solusindo, an Indonesian IT consultant company. Co-founded Merahputih.id as the CTO. Regularly giving talks to college and community, recently to STT Bina Tunggal Bekasi, Indonesia.
+Founded Merahputih.id in early career, now focusing on the technical aspect of product building. Certified GCP Professional Cloud Architect and Data Engineer. Writes about algorithm, data structures, software, and tech at: https://dev.to/anzhari. 
 
 
-Information
+Social
 ===========================================
 
+* Blog: https://dev.to/anzhari
 * LinkedIn: https://www.linkedin.com/in/anzhari/
 * Twitter: https://twitter.com/cthulhunim
 
