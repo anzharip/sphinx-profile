@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+.idea/misc.xml
+.idea/modules.xml
+.idea/rGraphicsSettings.xml
+.idea/rSettings.xml
+.idea/sphinx-profile.iml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
+source/.DS_Store
+source/images/.DS_Store
