@@ -138,3 +138,4 @@ dmypy.json
 .idea/inspectionProfiles/profiles_settings.xml
 source/.DS_Store
 source/images/.DS_Store
+.vscode/settings.json
