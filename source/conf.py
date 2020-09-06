@@ -52,3 +52,7 @@ html_static_path = ['_static']
 
 # Project logo
 html_logo = 'images/profile.jpg'
+
+html_theme_options = {
+    'analytics_id': 'UA-177315773-1',  #  Provided by Google in your dashboard
+}
